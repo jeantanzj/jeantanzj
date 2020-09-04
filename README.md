@@ -1,4 +1,12 @@
-### Hi there 👋
+
+## Interested in products that I've helped built?
+Check these out: 
+- [postman.gov.sg](https://postman.gov.sg)
+- [form.gov.sg](https://form.gov.sg)
+- [go.gov.sg](https://go.gov.sg)
+- [mc.gov.sg](https://mc.gov.sg)
+
+and other internal tools!
 
 <!--
 **jeantanzj/jeantanzj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
